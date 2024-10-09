@@ -1,0 +1,12 @@
+id,employeeID,name,designation,managerId,questions,aggregatedScore
+3,JMD363,Aswath,Software Engineer,JMD364,"[5, 5, 5, 5, 5]",100.0
+4,JMD327,Prasad,Principle Architect,JMD364,"[1, 1, 1, 1, 1]",20.0
+5,JMD617,User_1,Principle Architect,JMD364,"[1, 1, 1, 1, 1]",20.0
+6,JMD596,User_11,Data Engineer,JMD364,"[1, 1, 1, 1, 1]",20.0
+7,JMD737,User_12,QA Engineer,JMD364,"[1, 1, 1, 1, 5]",36.0
+8,JMD757,User_17,Data Scientist,JMD364,"[1, 1, 1, 1, 1]",20.0
+9,JMD104,User_18,DevOps Engineer,JMD364,"[5, 5, 4, 5, 5]",96.0
+10,JMD473,User_20,Data Scientist,JMD364,"[5, 5, 5, 5, 5]",100.0
+11,JMD457,User_22,QA Engineer,JMD364,"[5, 5, 5, 5, 5]",100.0
+12,JMD403,User_23,QA Engineer,JMD364,"[5, 5, 5, 5, 5]",100.0
+13,JMD514,User_24,Platform Engineer,JMD364,"[4, 5, 5, 4, 5]",92.0

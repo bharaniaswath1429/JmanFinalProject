@@ -1,0 +1,55 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500,800);
+
+
+.card {
+  position: relative;
+  
+  padding: 40px;
+  background-color: white;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+.card:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: calc(-100% + 5px);
+  width: 100%;
+  height: 100%;
+  background-color: #6C63FF;
+  z-index: 1;
+  transition: 0.5s;
+}
+
+.card:hover:before {
+  bottom: 0;
+}
+
+.content {
+  position: relative;
+  text-transform: capitalize;
+  color: #777;
+  z-index: 2;
+  transition: 0.5s;
+}
+
+
+.card:hover .content {
+  color: white;
+}
+
+.btnsubmit{
+  border-radius: 20px;
+  background-color: #6C63FF;
+  color: white;
+  border: 2px solid white;
+  font-weight: 500;
+  transition: all 0.5s;
+}
+
+.btnsubmit:hover{
+  background-color: white;
+  color: #6C63FF !important;
+  border: 2px solid #6C63FF;
+}

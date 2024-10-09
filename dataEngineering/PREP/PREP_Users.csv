@@ -1,0 +1,55 @@
+id,name,email,password,employeeID,designation,reportingManager,userType
+1,Aswath,bharaniaswath.rm@gmail.com,$2a$10$fjRdqTuhVUi1XWGpqRrdq.chBg49WGLR7J4rIC0s1cJ1qG.Klg6nu,JMD363,Software Engineer,JMD364,employee
+2,Bharani,bharaniaswath29@gmail.com,$2a$10$ny73G9sNOOLqwzRImB/hfutsR226n2aiQASOZ4RR5rPwV2y2IE6ey,JMD364,Manager,None,manager
+3,Bharani Aswath,bharani.r@jmangroup.com,$2a$10$HzotsdlQvyxwKC1NUHhZjeIyoRomMEl7RnI0bQ1e2lbrTC0SxAq1m,JMD001,Admin,None,admin
+4,Prasad,prasad@gmail.com,$2a$10$oZBJEzIKH7KvyNWVrq7dSu3Huji3kSWfQ/P/.9QZ623JO0xPP/uf2,JMD327,Principle Architect,JMD364,employee
+6,User_1,user1@gmail.com,$2a$06$yPMS/2tdpQ6jmgmNY9gI..p6nllV94RNACAzKUhHYLOc8o0bWQUbq,JMD617,Principle Architect,JMD364,employee
+7,User_2,user2@gmail.com,$2a$06$vJ.iwoDuDqwrNdq/VJvPauWvWoOK9U8KhO53s./AwDHuL9CcPysB.,JMD927,Principle Architect,JMD365,employee
+8,User_3,user3@gmail.com,$2a$06$paNJxcEIAlCF7rZd2srEzOCgE2RNp4BQbZPYPLnhMToaKzMTyl4U2,JMD458,Platform Engineer,JMD365,employee
+9,User_4,user4@gmail.com,$2a$06$0I7/mMtIg/6/Ghe3yl7OY.Tzh4pvKQUyliyYrGLPb0Akq2iJVRZMy,JMD853,Manager,None,manager
+10,User_5,user5@gmail.com,$2a$06$ft.pvABo/rzn07xHu54nReK6v17KsyTbgPDRd1wZ45VJ7YsRIhse6,JMD149,Data Analyst,JMD366,employee
+11,User_6,user6@gmail.com,$2a$06$3StsI7ghtL/tQRZYYCmXHO4QdBElbCasMMl.TshOEGuIq4.baTc3C,JMD225,Platform Engineer,JMD366,employee
+12,User_7,user7@gmail.com,$2a$06$G/GIhOw1PH8UX5khCpVqLOtuLItpa5gXMOUyjhzgB9c4sdYUlLgNS,JMD644,Platform Engineer,JMD366,employee
+13,User_8,user8@gmail.com,$2a$06$72kIx.oEEvOlu4PBk39IoODVkM8QFHrynWPT9n5.AT//xRMN2ZKBi,JMD174,Data Scientist,JMD365,employee
+14,User_9,user9@gmail.com,$2a$06$PBmrEJ.4yODKhSta1YErJulQIXXEUPqoVXel02N9nnQm7ovg9AMqW,JMD238,Platform Engineer,JMD366,employee
+15,User_10,user10@gmail.com,$2a$06$rT.bklZWZc9iCGXa67Jz5uG3dVZssgw5AWDOlGx3NpgPabZ2TIKRC,JMD422,QA Engineer,JMD366,employee
+16,User_11,user11@gmail.com,$2a$06$wU8g5W9g5ILdNXn3vL9bneX64Ne0ucCuwyYLizPlMB1Dmeo9N7FRC,JMD596,Data Engineer,JMD364,employee
+17,User_12,user12@gmail.com,$2a$06$CjiCuQcNQjodvJxZrUgLQ.bpjVyaMDv9T79qzEcboRhwKIM4gxDQe,JMD737,QA Engineer,JMD364,employee
+18,User_13,user13@gmail.com,$2a$06$ONJxUdko1fc4ojxxd2TgJuhCw3peeVntiufShC6M02J7A6Bg24Ci2,JMD224,Data Engineer,JMD365,employee
+19,User_14,user14@gmail.com,$2a$06$cmq4QkQjX0SxI4bMsAaudOjpzzRNcVZ1GjBOh08l.5U4MGcev1SGa,JMD929,Data Engineer,JMD365,employee
+20,User_15,user15@gmail.com,$2a$06$eslmg/srvSUmlgEocJd.E.FzkAHGxtskMLx98d2KFvzeWW9P01QNW,JMD958,DevOps Engineer,JMD365,employee
+21,User_16,user16@gmail.com,$2a$06$1KdA4WPDTYk7QE4onYc8jO52exgyo8SSsNq.Mzlp7QkU2/GFteaRa,JMD790,QA Engineer,JMD365,employee
+22,User_17,user17@gmail.com,$2a$06$hH.8l9kOOue72GZW.eA6tOkQfO/0Brq4fAoiTiVh55ejo7s2BF8su,JMD757,Data Scientist,JMD364,employee
+23,User_18,user18@gmail.com,$2a$06$zo4/zHW2131qQTz6PKEqKOKo50Dq0kzXRCv7unWP5HVrWvBSa7w6i,JMD104,DevOps Engineer,JMD364,employee
+24,User_19,user19@gmail.com,$2a$06$imQRH/YXsAFz.rKrtkrJ1ukdWn2uksrjpjA0DzRbu9gTwCvWE.0ge,JMD236,QA Engineer,JMD366,employee
+25,User_20,user20@gmail.com,$2a$06$2kPhJVT1wIOtmDsavtgrHuc7ptdZqRBn/HkKiyWYzIInKf8ovxioy,JMD473,Data Scientist,JMD364,employee
+26,User_21,user21@gmail.com,$2a$06$5VK1T/Q/ruglyKmlhOV1uOKtnR6HDgHwP14YJLfoTtedjK6rVEH2e,JMD141,Manager,None,manager
+27,User_22,user22@gmail.com,$2a$06$OCeYUl7XiyVcmdzSgoKsAu/JIV8AkNasmqeuriFUjzfHljOf3jOOy,JMD457,QA Engineer,JMD364,employee
+28,User_23,user23@gmail.com,$2a$06$R6zoFdCY5qHP2cdlORUCDu8HopdggWEXGJ7Hk7fe/H9Pbq7prKwsW,JMD403,QA Engineer,JMD364,employee
+29,User_24,user24@gmail.com,$2a$06$GA6RUZPstrX6IxPTQYHU7OkBFe6w/OYkalgXtNJX1.tbLAbD.AZKm,JMD514,Platform Engineer,JMD364,employee
+30,User_25,user25@gmail.com,$2a$06$ljdceeBgF8QN3YKEQqDUa.MkBmB/tODztBLc5m1MlhcLhHzT6ooMu,JMD205,QA Engineer,JMD364,employee
+31,User_26,user26@gmail.com,$2a$06$2tWV0rbrlzbUgl7MDpaOZeDUx6JI9v9QZGgfLH2OskFVxRnJRQLMu,JMD621,Platform Engineer,JMD364,employee
+32,User_27,user27@gmail.com,$2a$06$nSB9k0ASokEbthSkP5BMdugU4TqByg0zBD/4n9z3BE13.nCnigI1e,JMD689,Software Engineer,JMD366,employee
+33,User_28,user28@gmail.com,$2a$06$Qm2cOsjFj.sEuexS9OwdQOPWj1LGwMzuyQTtbMbcasUPCpb.n4MQ6,JMD465,Data Analyst,JMD365,employee
+34,User_29,user29@gmail.com,$2a$06$v7iHtBiQIHpVZpG4CXg2U.FnD9muP/s3.xWkJlGJluyWF9bkvJ3t.,JMD103,Data Scientist,JMD364,employee
+35,User_30,user30@gmail.com,$2a$06$j1fLmFSN9sswq8C3JaH/y.1mHY8qolDss.O0GQdCV5LbGYZ0HFS1S,JMD368,Principle Architect,JMD366,employee
+36,User_31,user31@gmail.com,$2a$06$Q7jKJmFnRgxkiv7adZGtpubTD9kjmXBKtnkzf/P5elKWcqG4VsDDK,JMD548,QA Engineer,JMD366,employee
+37,User_32,user32@gmail.com,$2a$06$7MUkqiRDmM2TJMHobscGIOx9KICrzOv0YFfdipm0/BZ0WBDh9g3Y.,JMD208,Data Analyst,JMD365,employee
+38,User_33,user33@gmail.com,$2a$06$X.Se460TKr1J9mdUsvYKNO5lgZRXlVi9FOmDC9c6TW1gZwYwcDI5.,JMD484,Principle Architect,JMD364,employee
+39,User_34,user34@gmail.com,$2a$06$CuKMwlniVVUKEJs0J9DuAeSG6HGVN9jABDYOKv7q3N6XDAZGteVC6,JMD406,Platform Engineer,JMD365,employee
+40,User_35,user35@gmail.com,$2a$06$IW6SYB4l.8kjlvZQWa5N.uzSP5xten5Z3ccz3aTfUYi4GbX4IUSlC,JMD141,Platform Engineer,JMD366,employee
+41,User_36,user36@gmail.com,$2a$06$xbf5DFAStPAyRlpkAATBr.9wW3FLLf3uAEARDsSQJ2VCC6vIm8geu,JMD958,QA Engineer,JMD366,employee
+42,User_37,user37@gmail.com,$2a$06$7PgvCH8uBE2616SM4aXEJeNOxNcNJyBgmG2TvYhKWYuuO6V3qidPG,JMD737,DevOps Engineer,JMD366,employee
+43,User_38,user38@gmail.com,$2a$06$mQdICx.8.gVQviWdwjtQWu5QYPy6MR0AE0MSeA91kJ0rXgq//.K9e,JMD155,Principle Architect,JMD364,employee
+44,User_39,user39@gmail.com,$2a$06$GdbTHoku3vK.UbAr97k2fep08ge4sCcAOuyq6LKxpTpuuyK9ts/gC,JMD582,Data Engineer,JMD365,employee
+45,User_40,user40@gmail.com,$2a$06$jujiwTPEvLiPzVv8D72EqOd21.6XpfSiPdsVz9DMrFPWa0LvgWgZa,JMD606,DevOps Engineer,JMD365,employee
+46,User_41,user41@gmail.com,$2a$06$uXnCYjGQhUOrCV20bQLOUuby6ysIUAKI1aoyXQQ5vvlk0AEGGMbSG,JMD281,Data Analyst,JMD364,employee
+47,User_42,user42@gmail.com,$2a$06$tfSHeGnxET/oK1l4c.R9FOzygixpHgRH5cO4/ffuLxvTK3EFyG5zm,JMD502,Principle Architect,JMD365,employee
+48,User_43,user43@gmail.com,$2a$06$LBf1cn95yiyCZnlm0mK1u.nkTjnmOF6YtnU63LlUYgSvE7KoSoi6C,JMD820,Data Scientist,JMD364,employee
+49,User_44,user44@gmail.com,$2a$06$IOrJezMfeEibgUHWhRzmpuXvnikdTZP3XAz8f4mPBPafV8LzlLaBm,JMD384,Software Engineer,JMD364,employee
+50,User_45,user45@gmail.com,$2a$06$ypSQGDLj2drzA4vtfo/qAeni9jByiIcBptyrMM46EBFN2ZTazKcni,JMD259,Data Engineer,JMD364,employee
+51,User_46,user46@gmail.com,$2a$06$YdNggSYxKhL/c0IewqWRnuvMUypmxXfFpnxJPWifwaqn.4HKidubK,JMD146,QA Engineer,JMD365,employee
+52,User_47,user47@gmail.com,$2a$06$gHaL5YD2SRDM/sUjf1OL6e6kVCyK6tXb5Mp7MP25zVLi8vruBrs6u,JMD775,Data Engineer,JMD366,employee
+53,User_48,user48@gmail.com,$2a$06$Ktfi.fmEm/6XJs1HCpI1Guxa8vzg0Lkkfh/BHPaKInw1Ryy88lN3a,JMD485,Principle Architect,JMD366,employee
+54,User_49,user49@gmail.com,$2a$06$f3vb.tWvR7RV6mXp3fO3KuGbHMhJxpdp/YtzwgQRSgmFLm7garOKm,JMD531,Data Engineer,JMD364,employee
+55,User_50,user50@gmail.com,$2a$06$c22FOfS9AhN03yK6lmSRxecpGS4QOcUZlsyYc10.U27.0f1ayc12a,JMD452,Data Engineer,JMD366,employee

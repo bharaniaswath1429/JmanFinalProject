@@ -1,0 +1,20 @@
+.btn1{
+    background-color: #6C63FF !important;
+    color: white !important;
+    font-weight: 500 !important;
+    transition: all 0.5s !important;
+    border-radius: 10px !important;
+    border: 2px solid white !important;
+}
+.btn1:hover{
+    background-color: white !important;
+    color: #6C63FF !important;
+    border: 2px solid #6C63FF !important;
+}
+.cd{
+    padding-top: 20px;
+}
+.coll{
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,12 @@
+employee_id,designation,no_of_trainings,avg_training_score,feedback_score
+JMD104,0,1,0.0,96.0
+JMD327,Principle Architect,2,50.0,20.0
+JMD363,Software Engineer,4,30.0,100.0
+JMD403,0,1,0.0,100.0
+JMD457,0,1,0.0,100.0
+JMD473,0,1,0.0,100.0
+JMD514,0,1,0.0,92.0
+JMD596,0,1,0.0,20.0
+JMD617,0,1,0.0,20.0
+JMD737,0,2,0.0,36.0
+JMD757,0,1,0.0,20.0
